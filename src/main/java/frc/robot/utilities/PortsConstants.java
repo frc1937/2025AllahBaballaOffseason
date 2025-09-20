@@ -35,6 +35,9 @@ public class PortsConstants {
     public static class IntakePorts{
         public static final int INTAKE_MOTOR_PORT = 100;
     }
+    public static class ManipulatorPorts{
+        public static final int MANIPULATOR_MOTOR_PORT = 100;
+    }
     public static class ClimbPorts {
         public static final int CLIMB_MOTOR_PORT = 7;
     }
